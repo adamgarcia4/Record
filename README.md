@@ -9,6 +9,11 @@ This software allows companies to record meetings and provide unbiased statistic
 
 A demonstration is the most effective form of communication, so without further adieu, [Recyc](https://www.youtube.com/watch?v=cBYrOZ0AfHk)!
 
+![Recyc](https://image.ibb.co/fEYHma/Screen_Shot_2017_08_16_at_1_37_56_PM.png "Recyc")
+
+
+
+
 ## Technologies
 - NodeJS/ Express JS backend
 - Handlebars Templating
